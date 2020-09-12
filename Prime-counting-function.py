@@ -15,8 +15,9 @@ def Eratosthenes(n):
     b.append(p)
     p=a[0]
   b=a+b  
+  return b
 
-Eratosthenes(10)
-print(len(b))
+if __name__ == "__main__":
+  print(len(Eratosthenes(10)))
 
 

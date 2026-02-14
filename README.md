@@ -1,3 +1,5 @@
+⚠️ This repository is archived practice code.
+
 # SW-Lab-Python
 
 (참고자료)
